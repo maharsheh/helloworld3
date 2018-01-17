@@ -1,1 +1,3 @@
 ﻿This is a fts controller commited from FTS branch.
+
+New feature A added.
